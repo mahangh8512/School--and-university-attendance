@@ -35,7 +35,7 @@ A comprehensive school attendance management system developed with Python, PyQt5
 
 1. Clone the repository:
 ```bash
-git clone https://github.com/yourusername/kardanesh.git
+git clone https://github.com/mahangh8512/School--and-university-attendance.git
 cd kardanesh
 ```
 
@@ -140,7 +140,7 @@ For questions and support, please open an issue in the repository.
 
 1. مخزن را کلون کنید:
 ```bash
-git clone https://github.com/yourprofile/kardanesh.git
+git clone https://github.com/mahangh8512/School--and-university-attendance.git
 cd kardanesh
 ```
 
