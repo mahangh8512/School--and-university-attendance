@@ -70,7 +70,7 @@ kardanesh/
 #### SMS API Setup
 To enable SMS notifications, you need to configure your Faraz SMS API credentials:
 
-1. Sign up at [Faraz SMS](https://faraz.io) and get your API key
+1. Sign up at [Faraz SMS](https://farazsms.com) and get your API key
 2. Update `src/config.py` with your credentials:
 ```python
 SMS_API_KEY = "your_api_key_here"
