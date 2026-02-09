@@ -100,7 +100,7 @@ SMS_API_USERNAME = "your_username"
 - Various academic majors/fields
 
 ### License
-MIT License
+GPL-3.0 license
 
 ### Contributing
 Contributions are welcome! Feel free to submit issues and pull requests.
